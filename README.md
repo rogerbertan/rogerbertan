@@ -32,8 +32,6 @@ Currently exploring mobile development with React Native and expanding my skills
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rogerbertan&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbertan&layout=compact&theme=dark)](https://github.com/rogerbertan/github-readme-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogerbertan&show_icons=true&theme=dark&hide_border=true)](https://github.com/rogerbertan/github-readme-stats)
