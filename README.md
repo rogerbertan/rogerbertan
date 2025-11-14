@@ -1,6 +1,5 @@
 <h1 align="center">💢 About Me:</h1>
-<p align="center">Hi, my name is Roger, and I'm passionate about building clean and functional apps.<br />
-Full-stack developer working with React Native for mobile, ReactJS for web, and Java Spring Boot for backend. Always exploring modern tools and best practices.</p>
+<p align="center">Hi, my name is Roger. I am passionate about creating clean, reliable and scalable applications. I work as a full-stack developer with a strong focus on Java using Spring Boot, and I also build mobile apps with React Native and web interfaces with React. I enjoy applying CI/CD practices, containerization with Docker and automated testing to deliver consistent and high-quality software.</p>
 
 ---
 
@@ -13,12 +12,11 @@ Full-stack developer working with React Native for mobile, ReactJS for web, and 
 
 ### 💻 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
