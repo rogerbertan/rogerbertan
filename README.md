@@ -29,7 +29,7 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rogerbertan&theme=react&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rogerbertan&theme=dark&hide_border=true)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbertan&layout=compact&theme=dark)](https://github.com/rogerbertan/github-readme-stats)
 
