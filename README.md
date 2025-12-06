@@ -1,5 +1,5 @@
 <h1 align="center">💢 About Me:</h1>
-<p align="center">Hi, my name is Roger.<br/> I build clean, reliable and scalable applications. My main focus is backend with Java and Spring Boot, following clean architecture principles. I also develop frontends with React. I use CI/CD, Docker and automated tests to deliver consistent and high-quality software.</p>
+<p align="center">Hi, my name is Roger.<br/> I build clean, reliable and scalable applications. My main focus is backend with Java, Spring Boot and SQL, following clean architecture principles. I also develop frontends with React. I use CI/CD, Docker and automated tests to deliver consistent and high-quality software.</p>
 
 ---
 
