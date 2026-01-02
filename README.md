@@ -27,6 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rogerbertan&theme=dark&hide_border=true)
