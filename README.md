@@ -27,12 +27,6 @@
 
 ---
 
-<p align="left">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbertan&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rogerbertan&theme=dark&hide_border=true)
