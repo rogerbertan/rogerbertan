@@ -24,9 +24,3 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
----
-
-### 📊 Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rogerbertan&theme=dark&hide_border=true)
