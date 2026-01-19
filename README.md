@@ -1,16 +1,16 @@
-<h1 align="center">💢 About Me:</h1>
-<p align="center">Hi, my name is Roger.<br/> I build clean, reliable, scalable end-to-end solutions. My main focus is backend with Java, Spring Boot and SQL, following Clean Architecture principles. I also develop web and mobile interfaces. I use CI/CD, Docker, and automated tests to ship consistent, high-quality software and integrations with SAP.</p>
+<h1 align="center"><samp>💢 About Me:</samp></h1>
+<p align="center"><samp>Hi, my name is Roger.<br/> I build clean, reliable, scalable end-to-end solutions. My main focus is backend with Java, Spring Boot and SQL, following Clean Architecture principles. I also develop web and mobile interfaces. I implement CI/CD, Docker, and automated tests to ship consistent, high-quality software and integrations with SAP.</samp></p>
 
 ---
 
-### 📱 Socials
+<h3><samp>📱 Socials</samp></h3>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rogerbertan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogerbertan)
 
 ---
 
-### 💻 Tech Stack
+<h3><samp>💻 Tech Stack</samp></h3>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
