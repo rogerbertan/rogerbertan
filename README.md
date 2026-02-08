@@ -1,5 +1,5 @@
 <h1 align="center"><samp>💢 About Me:</samp></h1>
-<h3><samp>Hi, my name is Roger.</samp></samp></h3>
+<h3><samp>Hi, Im Roger.</samp></samp></h3>
 <p><samp>I build clean, reliable, scalable end-to-end solutions. My main focus is backend with Java, Spring Boot and SQL, following Clean Architecture principles. I also develop web and mobile interfaces. I implement CI/CD, Docker, and automated tests to ship consistent, high-quality software and integrations with SAP.</samp></p>
 <p><samp>My academic life <a href="https://github.com/rogerbertan/list-of-courses-certifications"><b>here!</b></a></samp></p>
 
