@@ -1,6 +1,6 @@
 <h1 align="center"><samp>💢 About Me:</samp></h1>
-<h3><samp>Hi, Im Roger :)</samp></samp></h3>
-<p><samp>I build clean, reliable, scalable end-to-end solutions. My main focus is backend with Java, Spring Boot and SQL, following Clean Architecture principles. I also develop web and mobile interfaces. I implement CI/CD, Docker, and automated tests to ship consistent, high-quality software and integrations with SAP.</samp></p>
+<h3><samp>Hi, I'm Roger :)</samp></h3>
+<p><samp>I build clean, reliable, scalable backend systems. My main focus is Java and Spring Boot, designing microservices architectures and REST APIs that run in hybrid environments, on-premise and cloud. I own the full delivery lifecycle: from system architecture to containerized deployments with Docker and Kubernetes, CI/CD pipelines, and SAP ERP integrations. I also build React frontends when the project needs it.</samp></p>
 <p><samp>My academic life <a href="https://github.com/rogerbertan/list-of-courses-certifications"><b>here!</b></a></samp></p>
 
 ---
