@@ -6,8 +6,8 @@
 
 <h3><samp>📱 Socials</samp></h3>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rogerbertan)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogerbertan)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/rogerbertan)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/rogerbertan)
 
 ---
 
