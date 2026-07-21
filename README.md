@@ -13,4 +13,4 @@
 
 <h3><samp>💻 Tech Stack</samp></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,kafka,rabbitmq,docker,k8s,terraform,aws,go,typescript,react,nextjs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,kafka,rabbitmq,docker,k8s,terraform,aws,go,typescript,react,nextjs,flutter)](https://skillicons.dev)
